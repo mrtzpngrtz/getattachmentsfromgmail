@@ -2,6 +2,8 @@
 
 Connect to your Gmail via IMAP, search your emails, and bulk-download all attachments as a single ZIP file. Read-only — nothing is deleted or modified.
 
+![Screenshot](screenshot.png)
+
 ---
 
 ## Requirements
